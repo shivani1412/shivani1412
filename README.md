@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shivani jain</h1>
-<h3 align="center">|| FULL STACK WEB DEVELOPER ||</h3>
+<h3 align="center">|| FRONTEND WEB DEVELOPER ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani1412&label=Profile%20views&color=0e75b6&style=flat" alt="shivani1412" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivani1412](https://github.com/shivani1412)
 
-- 💬 Ask me about **javascript, html, css,react.js**
+- 💬 Ask me about **javascript, html, css,react.js, jquery**
 
 - 📫 How to reach me **jshivani1412@gmail.com**
 
